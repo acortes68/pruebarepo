@@ -1,0 +1,117 @@
+h1,img{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+h1{
+    font-size: 44px;
+    font-family: Helvetica;
+    margin-left: 15px;
+}
+
+.menüheader{
+    width: 100%;
+    height: 65px;
+    z-index: 101;
+    background: crimson;
+    font-size: 23px;
+    font-family: Helvetica;
+    text-align: center;
+    margin-top: 0;
+}
+
+.menü ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+}
+
+.menü li{
+    padding-top: 0;
+    padding-left: 35px;
+}
+
+.menü a:hover{
+    color: cyan;
+    text-decoration: underline;
+}
+
+.menü li a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.subtitulo1{
+    margin-top: 45px;
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px; 
+}
+
+.contenido1{
+    display: inline-block;
+    font-family: Helvetica;
+    color: black    ;
+    text-align: left;
+    margin-top: 35px;
+    margin-left: 45px;
+    font-size: 20px;
+}
+
+.imagen{
+    float: right;
+    margin-right: 55px;
+    margin-top: 40px;
+}
+
+.subtitulo2{
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.subtitulo3{
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.subtitulo4{
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.subtitulo5{
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.subtitulo6{
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.subtitulo7{
+    margin-left: 55px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+.container{
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+body{
+    background-color: white;
+}
+
+
+

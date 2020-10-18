@@ -1,0 +1,27 @@
+footer {
+    width: 100%;
+}
+
+.iconos {
+    text-align: center;
+    background-color: #3ca4d4;
+    height: 50px;
+    
+}
+
+.ajusteicono {
+    display: inline-flex;
+    margin: 10px;
+    margin-top: -10px;
+}
+
+.textofooter {
+    padding-top: 8px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    height: 80px;
+    background-color: turquoise;
+}
